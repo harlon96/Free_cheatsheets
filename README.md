@@ -1,2 +1,2 @@
 # Free_cheatsheets
-Free chea tsheets that I have found that have helped me.
+Free cheatsheets that I have found online that have helped me.
